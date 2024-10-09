@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # Comportamiento Esperado
 
 Descripción del comportamiento esperado para el escenario de pruebas ejecutado.
