@@ -14,8 +14,8 @@ Descripción del comportamiento actual para el escenario de pruebas ejecutado.
 
 # Evidencias
 
-[Link 1]()
-[Link 2]()
+- [Link 1]()
+- [Link 2]()
 
 # Contexto (Ambiente de ejecución)
 
